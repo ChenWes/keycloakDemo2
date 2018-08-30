@@ -1,0 +1,3 @@
+rootProject.name = 'keycloakDemo2'
+
+include ':app'
