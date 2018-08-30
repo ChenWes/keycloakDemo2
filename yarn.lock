@@ -4248,6 +4248,10 @@ react-is@^16.3.1:
   version "16.4.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.4.2.tgz#84891b56c2b6d9efdee577cc83501dfc5ecead88"
 
+react-native-app-auth@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-app-auth/-/react-native-app-auth-3.1.0.tgz#642d920e10888c21412ddf844661363e58071ef5"
+
 react-native@0.55.4:
   version "0.55.4"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.55.4.tgz#eecffada3750a928e2ddd07cf11d857ae9751c30"
